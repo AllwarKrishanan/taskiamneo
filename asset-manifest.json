@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskiamneo/static/css/main.152a2a60.css",
+    "main.js": "/taskiamneo/static/js/main.65a868c3.js",
+    "index.html": "/taskiamneo/index.html",
+    "main.152a2a60.css.map": "/taskiamneo/static/css/main.152a2a60.css.map",
+    "main.65a868c3.js.map": "/taskiamneo/static/js/main.65a868c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.152a2a60.css",
+    "static/js/main.65a868c3.js"
+  ]
+}
